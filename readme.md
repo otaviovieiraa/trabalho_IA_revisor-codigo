@@ -70,14 +70,15 @@ melhorias e, quando aplicavel, sugestao de codigo corrigido).
 
 ## Executando
 
-Com as dependencias instaladas e a chave configurada, rode:
+Com as dependencias instaladas e a chave configurada, rode o servidor web local:
 
 ```bash
 npm start
 ```
 
-O programa vai perguntar como voce quer enviar o codigo (colar ou informar
-arquivo) e, em seguida, mostrar a analise gerada pela IA no proprio terminal.
+O navegador abrirá a interface web em `http://localhost:3000` (ou apenas abra
+a URL no browser). Cole seu código na página e clique em Enviar para receber a
+revisão.
 
 ## Exemplo de uso
 
